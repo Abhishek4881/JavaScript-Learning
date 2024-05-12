@@ -12,4 +12,4 @@ accountcity = "Bengaluru"
 
 console.log(accountId);
 
-console.log([accountId,accountEmail,accPsw,accountcity,accountstate])
+console.table([accountId,accountEmail,accPsw,accountcity,accountstate])
