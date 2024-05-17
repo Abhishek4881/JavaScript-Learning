@@ -34,12 +34,18 @@ let kucchNHi=null
 
 let nullinNUMBERS=Number(kucchNHi)
 
-console.log(typeof kucchNHi)
-console.log(typeof nullinNUMBERS)
+// console.log(typeof kucchNHi)
+// console.log(typeof nullinNUMBERS)
 
 
-console.log( kucchNHi)
-console.log( nullinNUMBERS)
+// // console.log( kucchNHi)
+// // console.log( nullinNUMBERS)
+
+// console.log(2**3)
+
+let count=19
+console.log(count++)
+console.log(++count)
 
 
 
